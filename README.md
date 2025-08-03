@@ -63,7 +63,8 @@ cd ../AI-Model
 pip install -r requirements.txt
 python app.py
 ```
-##✅ Requirements
+---
+## ✅ Requirements
 Node.js & npm
 Python 3.8+
 MongoDB connection string (already added in server.js)
