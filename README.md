@@ -2,7 +2,7 @@
 
 **AuthRail** is an AI-powered invisible fraud tracker that analyzes user behavior—such as typing speed, clicks, and tab switches—to predict whether user activity is safe or fraudulent in real-time. This tool helps detect suspicious patterns to improve security and prevent fraud.
 
-![AuthRail Tracker Screenshot 1](./Screenshot%202025-08-03%20182459.png)
+![AuthRail Tracker Screenshot 1](Screenshots/Screenshot 2025-08-03 182459.png)
 
 ---
 
