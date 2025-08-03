@@ -19,7 +19,7 @@
 ## 📸 Screenshots
 
 ### Initial View
-![Start Typing](./Screenshot%202025-08-03%20182459.png)
+![Start Typing](Screenshots/Screenshot%202025-08-03%20182459.png)
 
 ### Safe Activity Detected
 ![Safe Prediction](./Screenshot%202025-08-03%20182813.png)
