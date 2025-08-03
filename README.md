@@ -22,10 +22,10 @@
 ![Start Typing](Screenshots/Screenshot%202025-08-03%20182459.png)
 
 ### Safe Activity Detected
-![Safe Prediction](Screenshots/Screenshot%2025-08-03%182813.png)
+![Safe Prediction](Screenshots/Screenshot%202025-08-03%20182813.png)
 
 ### Fraudulent Activity Detected
-![Fraudulent Prediction](./Screenshot%202025-08-03%20182918.png)
+![Fraudulent Prediction](Screenshots/Screenshot%202025-08-03%20182918.png)
 
 ---
 
@@ -44,3 +44,29 @@
 ```bash
 git clone https://github.com/shreyaporwal2003/AuthTrail.git
 cd AuthTrail
+```
+### 2️⃣ Start the React Frontend
+```bash
+cd Client
+npm install
+npm run dev
+```
+### 3️⃣ Start the Node.js Express Server
+```bash
+cd ../Server
+npm install
+node server.js
+```
+### 4️⃣ Start the Python AI Model API
+```bash
+cd ../AI-Model
+pip install -r requirements.txt
+python app.py
+```
+##✅ Requirements
+Node.js & npm
+Python 3.8+
+MongoDB connection string (already added in server.js)
+behavior_model.pkl file in AI-Model folder (train with train_model.py if not available)
+
+
