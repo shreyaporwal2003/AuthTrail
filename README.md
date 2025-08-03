@@ -22,7 +22,7 @@
 ![Start Typing](Screenshots/Screenshot%202025-08-03%20182459.png)
 
 ### Safe Activity Detected
-![Safe Prediction](./Screenshot%202025-08-03%20182813.png)
+![Safe Prediction](Screenshots/Screenshot%2025-08-03%182813.png)
 
 ### Fraudulent Activity Detected
 ![Fraudulent Prediction](./Screenshot%202025-08-03%20182918.png)
