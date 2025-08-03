@@ -65,9 +65,9 @@ python app.py
 ```
 ---
 ## ✅ Requirements
-Node.js & npm
-Python 3.8+
-MongoDB connection string (already added in server.js)
-behavior_model.pkl file in AI-Model folder (train with train_model.py if not available)
+- Node.js & npm
+- Python 3.8+
+- MongoDB connection string (already added in server.js)
+- behavior_model.pkl file in AI-Model folder (train with train_model.py if not available)
 
 
